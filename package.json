@@ -1,0 +1,14 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "this is janamitra forum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yogesh singh",
+  "license": "ISC",
+  "keywords": [
+    "janamitra"
+  ]
+}
